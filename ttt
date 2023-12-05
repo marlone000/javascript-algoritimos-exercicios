@@ -1,5 +1,0 @@
-function converter(){
-    let centimetros = metro * 100
-    document.getElementById("metros").value
-    
-}
